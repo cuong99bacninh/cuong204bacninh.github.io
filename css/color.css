@@ -1,0 +1,63 @@
+
+#ts	{
+
+	color: greenyellow;
+}
+
+h2 {
+	color: red;
+}
+
+#ts{
+	background-color: goldenrod;
+	text-align: center;
+	padding: 80px 40px 80px 40px; //tren phai duoi trai
+	margin: 0;
+}
+
+#menu {
+	background-color: black;
+	padding: 10px;
+	margin: 10px;
+	overflow: hidden; 
+}
+#menu a { 
+	color: red;
+	background-color: white;
+	text-align: center;
+	text-decoration: none;
+	display: block;
+	margin: 0;
+}
+#menu a:hover { 
+	color: yellow;
+	
+}
+
+#menu a.trai{
+	float: left;
+
+}
+#menu a.phai{
+	float: right;
+	
+}
+
+#traii{
+	flex: 30%;
+	background-color: grey;
+	padding: 10px;
+}
+
+#phaii{
+	flex: 70%;
+	padding: 10px;
+}
+
+#conten
+{
+	display: flex;
+}
+table{
+	border-style:solid;
+}
